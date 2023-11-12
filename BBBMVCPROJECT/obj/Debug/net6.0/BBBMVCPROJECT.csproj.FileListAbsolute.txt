@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\repos\BBBMVCPROJECT\BBBMVCPROJECT\obj\Debug\net6.0\BBBMVCPROJECT.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\repos\BBBMVCPROJECT\BBBMVCPROJECT\obj\Debug\net6.0\BBBMVCPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\repos\BBBMVCPROJECT\BBBMVCPROJECT\obj\Debug\net6.0\BBBMVCPROJECT.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\repos\BBBMVCPROJECT\BBBMVCPROJECT\obj\Debug\net6.0\BBBMVCPROJECT.AssemblyInfo.cs
+C:\Users\Owner\Desktop\repos\BBBMVCPROJECT\BBBMVCPROJECT\obj\Debug\net6.0\BBBMVCPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\repos\BBBMVCPROJECT\BBBMVCPROJECT\obj\Debug\net6.0\BBBMVCPROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\Desktop\repos\BBBMVCPROJECT\BBBMVCPROJECT\obj\Debug\net6.0\BBBMVCPROJECT.RazorAssemblyInfo.cache
+C:\Users\Owner\Desktop\repos\BBBMVCPROJECT\BBBMVCPROJECT\obj\Debug\net6.0\BBBMVCPROJECT.RazorAssemblyInfo.cs
